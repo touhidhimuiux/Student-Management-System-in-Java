@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/NetBeans-IDE-green?style=for-the-badge"/>
 </p>
 
-
+![Student Management System](Studentmanagment.png)
 
 ## 📌 Project Overview
 
